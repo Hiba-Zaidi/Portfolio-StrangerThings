@@ -13,7 +13,7 @@ Step into Hawkins one final time. This project is a cinematic, Netflix-inspired 
 * Strategic text overlays and visual storytelling elements
 * Clean, maintainable, and scalable code structure
 
-## 🛠️ Technologies
+##  Technologies
 
 * HTML5
 * CSS3
